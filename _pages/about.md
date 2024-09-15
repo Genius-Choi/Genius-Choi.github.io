@@ -12,15 +12,13 @@ redirect_from:
 
 ## Education
 
-2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, Korea University (Prof. Seunghoon Woo)
-~ 2024.02 🏫 **B.S**. Smart ICT Convergence Engineering, Seoul National University of Science and
-Technology, *summa cum laude.*
+2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, Korea University (Prof. Seunghoon Woo)\\
+~ 2024.02 🏫 **B.S**. Smart ICT Convergence Engineering, Seoul National University of Science and Technology, *summa cum laude.*
 
 ## Experiences
 
-2024.09 ~ Present **Teaching Assistant.** [SW123] Open-source Software Security, Korea University.
+2024.09 ~ Present **Teaching Assistant.** [SW123] Open-source Software Security, Korea University. \\
 2024.03 ~ 2024.09 **Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo) \\
-
 2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
 ## Awards and Achievements
