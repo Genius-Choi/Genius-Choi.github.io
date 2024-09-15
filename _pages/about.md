@@ -44,8 +44,6 @@ On My Way!!
 
 2024.09 – Present Integrated vulnerability management platform technology based on SBOM and vex
 linkage to internalize security throughout the software supply chain.\\
-
 2024.09 - Present Development of automatic SBOM generation and integrity verification technology
 for software supply chain security.\\
-
 2022.12 – 2023.09 Development of multidimensional visualization digital twin framework technology.
