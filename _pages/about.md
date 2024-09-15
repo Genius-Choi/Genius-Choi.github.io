@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- Youngjae Choi -->
+🎂 1997.07.27
 ✉️ youngjaechoi@korea.ac.kr \\
     Feel free to email :) 
 
