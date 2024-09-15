@@ -18,8 +18,9 @@ Technology, *summa cum laude.*
 
 ## Experiences
 
-2024.09 ~ **Teaching Assistant.** [SW123] Open-source Software Security, Korea University.
-2024.03 ~ 2024.09 **Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo)
+2024.09 ~         **Teaching Assistant.** [SW123] Open-source Software Security, Korea University.
+2024.03 ~ 2024.09 **Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo) \\
+
 2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
 ## Awards and Achievements
@@ -40,10 +41,10 @@ On My Way!!
 
 ## Projects
 
-2024.09 – Integrated vulnerability management platform technology based on SBOM and vex
+2024.09 –         Integrated vulnerability management platform technology based on SBOM and vex
 linkage to internalize security throughout the software supply chain.\\
 
-2024.09 - Development of automatic SBOM generation and integrity verification technology
+2024.09 -         Development of automatic SBOM generation and integrity verification technology
 for software supply chain security.\\
 
 2022.12 – 2023.09 Development of multidimensional visualization digital twin framework technology.
