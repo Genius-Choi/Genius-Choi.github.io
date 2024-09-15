@@ -24,7 +24,6 @@ redirect_from:
 ## Awards and Achievements
 <font size = 3>2023</font>
 **Scholarship for academic excellence**, Seoul National University of Science and Technology.
-
 <font size = 3>2022</font>
 **Governments Business Scholarship**, Seoul National University of Science and Technology.\\
 **KISTI Director’s Award**, Korea Institute of Science and Technology Information.
