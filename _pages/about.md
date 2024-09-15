@@ -22,7 +22,6 @@ redirect_from:
 2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
 ## Awards and Achievements
-
 ### 2023
 **Scholarship for academic excellence**, Seoul National University of Science and Technology.
 
