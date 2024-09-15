@@ -22,10 +22,10 @@ redirect_from:
 2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
 ## Awards and Achievements
-### 2023
+<font size = 3>2023</font>
 **Scholarship for academic excellence**, Seoul National University of Science and Technology.
 
-### 2022 
+<font size = 3>2022</font>
 **Governments Business Scholarship**, Seoul National University of Science and Technology.\\
 **KISTI Director’s Award**, Korea Institute of Science and Technology Information.
 
