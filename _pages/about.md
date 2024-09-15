@@ -12,9 +12,9 @@ redirect_from:
 
 ## Education
 
-2024.09 ~ 🏫 M.S. Computer Science and Engineering, Korea University (Prof. Seunghoon Woo)
-~ 2024.02 🏫 B.S. Smart ICT Convergence Engineering, Seoul National University of Science and
-Technology, summa cum laude.
+2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, Korea University (Prof. Seunghoon Woo)
+~ 2024.02 🏫 **B.S**. Smart ICT Convergence Engineering, Seoul National University of Science and
+Technology, *summa cum laude.*
 
 ## Experiences
 
