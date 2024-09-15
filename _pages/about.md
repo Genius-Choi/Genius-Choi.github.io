@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- Youngjae Choi -->
-✉️ youngjaechoi@korea.ac.kr
+✉️ youngjaechoi@korea.ac.kr \\
     Feel free to email :) 
 
 ## Education
@@ -18,15 +18,15 @@ Technology, *summa cum laude.*
 
 ## Experiences
 
-2024.09 ~ Teaching Assistant. [SW123] Open-source Software Security, Korea University.
-2024.03 ~ 2024.09 Intern. Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo)
-2022.06 ~ 2023.09 Undergraduate Researcher. Seoul National University of Science and Technology.
+2024.09 ~ **Teaching Assistant.** [SW123] Open-source Software Security, Korea University.
+2024.03 ~ 2024.09 **Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo)
+2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
 ## Awards and Achievements
 
-2023 Scholarship for academic excellence, Seoul National University of Science and Technology.
-2022 Governments Business Scholarship, Seoul National University of Science and Technology.
-KISTI Director’s Award, Korea Institute of Science and Technology Information.
+2023 **Scholarship for academic excellence**, Seoul National University of Science and Technology.
+2022 **Governments Business Scholarship**, Seoul National University of Science and Technology.
+*KISTI Director’s Award**, Korea Institute of Science and Technology Information.
 
 ## Research Interests
 
@@ -41,7 +41,9 @@ On My Way!!
 ## Projects
 
 2024.09 – Integrated vulnerability management platform technology based on SBOM and vex
-linkage to internalize security throughout the software supply chain.
-Development of automatic SBOM generation and integrity verification technology
-for software supply chain security.
+linkage to internalize security throughout the software supply chain.\\
+
+2024.09 - Development of automatic SBOM generation and integrity verification technology
+for software supply chain security.\\
+
 2022.12 – 2023.09 Development of multidimensional visualization digital twin framework technology.
