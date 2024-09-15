@@ -39,6 +39,10 @@ redirect_from:
 
 On My Way!!
 
+## Languages
+Korean\\
+English (TOEIC 915)
+
 ## Projects
 
 2024.09 – Present Integrated vulnerability management platform technology based on SBOM and vex
