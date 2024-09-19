@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 
-2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, **Korea University (Prof. Seunghoon Woo)**\\
+2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**\\
 ~ 2024.02 🏫 **B.S**. Smart ICT Convergence Engineering, **Seoul National University of Science and Technology, *<u>summa cum laude.</u>***
 
 ## Experiences
