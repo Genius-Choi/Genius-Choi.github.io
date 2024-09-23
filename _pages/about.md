@@ -28,7 +28,7 @@ redirect_from:
 **Scholarship for academic excellence**, Seoul National University of Science and Technology.
 <font size = 4>2022</font>
 **Governments Business Scholarship**, Seoul National University of Science and Technology.\\
-**Excellence Award**, Book review Contest, Seoul National University of Science and Technology.\\
+**Excellence Award**, Book review contest, Seoul National University of Science and Technology.\\
 **KISTI Director’s Award**, Korea Institute of Science and Technology Information.
 
 ## Research Interests
