@@ -17,7 +17,7 @@ redirect_from:
 
 ## Experiences
 
-2024.09 ~ Present **Teaching Assistant.** [SW123] Open-source Software Security, Korea University. \\
+2024.09 ~ Present **Teaching Assistant.** [SWS123] Open-source Software Security, Korea University. \\
 2024.03 ~ 2024.09 **Research Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo) \\
 2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
 
