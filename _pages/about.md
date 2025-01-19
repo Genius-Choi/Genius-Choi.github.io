@@ -16,8 +16,15 @@ redirect_from:
 ~ 2024.02 🏫 **B.S**. ICT Convergence Engineering, **Seoul National University of Science and Technology, *<u>GPA: 4.21/4.5 (2nd Place)</u>***
 
 ## Publications
+👑: Top-Tier Conference
 
-On My Way!!
+<font size = 4>2025</font>
+
+**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)
+
+
+
+👑 47th International Conference on Software Engineering (ICSE 2025)
 
 ## Experiences
 
