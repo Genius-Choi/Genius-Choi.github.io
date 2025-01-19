@@ -24,7 +24,7 @@ redirect_from:
 
 
 
-👑 47th International Conference on Software Engineering (ICSE 2025 Research Track)
+👑 47th International Conference on Software Engineering (ICSE 2025)
 
 ## Experiences
 
