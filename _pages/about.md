@@ -19,14 +19,14 @@ Feel free to email :)
 👑: Top-Tier Conference
 
 ### International
+---
 <font size = 4>2025</font>
 
 **<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)<br>
 👑 47th International Conference on Software Engineering (ICSE 2025)
 
----
-
 ### Domestic
+---
 <font size = 4>2025</font>
 
 **<u>최영재</u>**, 양희동, 우승훈 공급망 보안을 위한 소프트웨어 명세서(SBOM) 개선 연구<br>정보보호학회지 (2025)<br>[[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12088070)
