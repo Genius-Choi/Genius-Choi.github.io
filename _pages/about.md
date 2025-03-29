@@ -22,7 +22,7 @@ Feel free to email :)
 ---
 <font size = 4>2025</font>
 
-**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)<img src="image.png" alt="alt text" width="12"><img src="image-1.png" alt="alt text" width="12"><img src="image-2.png" alt="alt text" width="12"><br>
+**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)<br>
 👑 47th International Conference on Software Engineering (ICSE 2025)
 
 ### Domestic
