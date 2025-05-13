@@ -12,8 +12,8 @@ Feel free to email :)
 
 ## Education
 
-2024.09 ~ 🏫 **M.S**. Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**<br>
-~ 2024.02 🏫 **B.S**. ICT Convergence Engineering, **Seoul National University of Science and Technology, *<u>GPA: 4.21/4.5 (2nd Place)</u><br>***
+2024.09. ~ 🏫 **M.S**. Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**<br>
+2024.02. 🏫 **B.S**. ICT Convergence Engineering, **Seoul National University of Science and Technology, *GPA: 4.21/4.5 (2nd Place)<br>***
 
 ## Publications
 👑: Top-Tier Conference
@@ -22,7 +22,7 @@ Feel free to email :)
 ---
 <font size = 4>2025</font>
 
-**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)<br>
+**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique [[Paper]](/images/ICSE25.pdf) [[Slide]](/images/ICSE2025%20presentation.pdf)<br>
 👑 47th International Conference on Software Engineering (ICSE 2025)
 
 ### Domestic
