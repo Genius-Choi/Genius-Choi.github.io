@@ -22,7 +22,7 @@ Feel free to email :)
 ---
 <font size = 4>2025</font>
 
-**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique [[Paper]](/images/ICSE25.pdf) [[Slide]](/images/ICSE2025%20presentation.pdf)<br>
+**<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique [[Paper]](/images/ICSE25.pdf) [[Slide]](/images/ICSE2025%20presentation.pdf) [[article1]](https://www.kfenews.co.kr/news/articleView.html?idxno=638650) [[article2]](https://www.dailysecu.com/news/articleView.html?idxno=166742) [[article3]](https://www.digitaltoday.co.kr/news/articleView.html?idxno=569997)<br>
 👑 47th International Conference on Software Engineering (ICSE 2025)
 
 ### Domestic
@@ -33,7 +33,7 @@ Feel free to email :)
 
 ## Experiences
 
-2025.03 ~ Present **Teaching Assistant.** [COSE451] Software Security, Korea University. <br>
+2025.03 ~ 2025.06 **Teaching Assistant.** [COSE451] Software Security, Korea University. <br>
 2024.12 ~ 2025.03 **Internship.** AUTOCRYPT <br>
 2024.09 ~ 2024.12 **Teaching Assistant.** [SWS123] Open-source Software Security, Korea University. <br>
 2024.03 ~ 2024.09 **Research Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo) <br>
