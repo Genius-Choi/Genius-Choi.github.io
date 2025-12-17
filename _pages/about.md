@@ -59,15 +59,10 @@ Feel free to email :)
 Korean<br>
 English (TOEIC 915)
 
-## Projects
-
-**Integrated vulnerability management platform technology based on SBOM and vex linkage to internalize security throughout the software supply chain.**
- - 2024.09 – Present
-
-
-**Development of automatic SBOM generation and integrity verification technology for software supply chain security.**
- - 2024.09 - Present
-
-
-**Development of multidimensional visualization digital twin framework technology.**
- - 2022.12 – 2023.09
+## Research Projects
+| Period | Project Title |
+|--------|---------------|
+| **2025.06 – Present** | Research on Intelligent SBOM Generation and Automated Vulnerability Analysis through Multi-level Code Analysis (National Research Foundation of Korea)|
+| **2025.06 – Present** | International Collaborative Research and Global Talent Development for the Development of Copyright Management and Protection Technologies for Generative AI (Ministry of Culture, Sports and Tourism)|
+| **2024.09 – Present** | Integrated Vulnerability Management Platform Technology based on SBOM and VEX Linkage to Internalize Security throughout the Software Supply Chain (IITP) |
+| **2024.09 – Present** | Development of Automatic SBOM Generation and Integrity Verification Technology for Software Supply Chain Security (IITP) |
